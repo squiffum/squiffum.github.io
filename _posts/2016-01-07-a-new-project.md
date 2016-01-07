@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Project!
+title: A New Project!
 ---
 
 Right.. So I've been without a projet for a few hours now, *let's make something else*.
