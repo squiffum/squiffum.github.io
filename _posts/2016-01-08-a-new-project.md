@@ -3,7 +3,7 @@ layout: post
 title: A New Project!
 ---
 
-Right.. So I've been without a projet for a few hours now, *let's make something else*.
+Right.. So I've been without a projet for about half a day now, *let's make something else*.
 
 -----
 
